@@ -1,0 +1,24 @@
+Location                                                                                                                                            0
+Period                                                                                                                                              0
+Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease    2973
+Adolescent birth rate (per 1000 women aged 15-19 years)                                                                                          1699
+Population using at least basic sanitation services (%)                                                                                           449
+Population using at least basic drinking-water services (%)                                                                                       433
+Births attended by skilled health personnel (%)                                                                                                  2133
+Proportion of population with primary reliance on clean fuels and technologies (%)                                                                278
+Dentists (per 10,000)                                                                                                                            2194
+Healthy life expectancy (HALE) at birth (years)                                                                                                  3156
+Malaria incidence (per 1 000 population at risk)                                                                                                 1855
+Incidence of tuberculosis (per 100 000 population per year)                                                                                        31
+Infant mortality rate (probability of dying between birth and age 1 per 1000 live births)                                                         449
+Reported number of people requiring interventions against NTDs                                                                                   2142
+Maternal mortality ratio (per 100 000 live births)                                                                                                594
+Medical doctors (per 10,000)                                                                                                                     1898
+Neonatal mortality rate (per 1000 live births)                                                                                                     28
+Nursing and midwifery personnel (per 10,000)                                                                                                     1731
+Pharmacists  (per 10,000)                                                                                                                        2407
+Population using safely managed sanitation services (%)                                                                                          2317
+Age-standardized prevalence of current tobacco smoking among persons aged 15 years and older                                                     2547
+Under-five mortality rate (probability of dying by age 5 per 1000 live births)                                                                    449
+dtype: int64
+3888
